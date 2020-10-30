@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer | Junior Developer  at <a href="https://cloudpeer.com.tr/" target="_blank"><b>Cloudpeer The Platform Company</b></a></h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MertbabaOkulmus" alt="MertbabaOkulmus" /> </p>
 <hr />
-<p align="center">
+<!-- <p align="center">
     <img src="https://github.com/onurakkaya/onurakkaya/raw/main/github_bg_opt_320x480.gif"/>
-</p>
+</p> -->
 <p align="left">
     <h4 align="left" style="margin-left: 15px">&nbsp;&nbsp;&nbsp;Connect with me:</h4>
     <a href="https://i.ytimg.com/vi/VZ6DTHK8wgQ/maxresdefault.jpg" alt="MertbabaOkulmus" height="30" width="40" /></a>
