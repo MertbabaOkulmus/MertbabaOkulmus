@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MertbabaOkulmus" alt="MertbabaOkulmus" /> </p>
 <hr />
 <p align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
+    <img src="https://github.com/MertbabaOkulmus/MertbabaOkulmus/blob/master/coder.gif"/>
 </p>
 <p align="left">
     <h4 align="left" style="margin-left: 15px">&nbsp;&nbsp;&nbsp;Connect with me:</h4>
