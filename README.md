@@ -1,9 +1,9 @@
 <hr />
-<h3 align="center">Software Engineer | Junior Developer  at <a href="https://cloudpeer.com.tr/" target="_blank"><b>Cloudpeer The Platform Company</b></a></h3>
+<h3 align="center">Software Engineer | Frontend Developer @ <a href="https://cloudpeer.com.tr/" target="_blank"><b>Cloudpeer Technology</b></a></h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MertbabaOkulmus" alt="MertbabaOkulmus" /> </p>
 <hr />
 <p align="center">
-    <img src="https://github.com/MertbabaOkulmus/MertbabaOkulmus/blob/master/coder.gif"/>
+    <img src="https://github.com/MertbabaOkulmus/MertbabaOkulmus/blob/master/developer_gif.gif"/>
 </p>
 <p align="left">
     <h4 align="left" style="margin-left: 15px">&nbsp;&nbsp;&nbsp;Connect with me:</h4>
