@@ -1,5 +1,5 @@
 <hr />
-<h3 align="center">    Software Engineer | Frontend Developer | Mobile Application Developer(React Native)       @ <a href="https://cloudpeer.com.tr/" target="_blank"><b>Cloudpeer Technology</b></a></h3>
+<h3 align="center">Software Engineer | Frontend Developer | Mobile Application Developer(React Native)      <br> @ <a href="https://cloudpeer.com.tr/" target="_blank"><b>Cloudpeer Technology</b></a></h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MertbabaOkulmus" alt="MertbabaOkulmus" /> </p>
 <hr />
 <p align="center">
