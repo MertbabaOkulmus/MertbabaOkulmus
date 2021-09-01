@@ -14,7 +14,7 @@
 </p>
 
 <h3>Github Stats</h3>
-<a href="https://github.com/damla">
+<a href="https://github.com/MertbabaOkulmus">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MertbabaOkulmus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MertbabaOkulmus&layout=compact&langs_count=10&theme=algolia"/>
 </a>
